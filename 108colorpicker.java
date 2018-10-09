@@ -1,4 +1,5 @@
 // By Luke Minsuk Kim 
+// For future reference
 package edu.stanford.cs108.colorpicker;
 
 import android.graphics.Color;
